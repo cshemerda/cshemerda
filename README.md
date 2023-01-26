@@ -7,6 +7,7 @@
   <samp> My name is Chance Hemerda. I'm a Full stack Web Developer in training @ Fullstack Academy. I am enthuastic about new technologies and teaching others. Outside the world of tech, I enjoy Traveling, Gaming, F1, and spending way too much time and money building custom keyboards.
   </samp>
   <br> <br>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f9f2a8b615b449cc5d379251b4c87ffdfcd00b2668ba082aa44047bc51a7f508/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d696c65726961796f"><img src="https://camo.githubusercontent.com/f9f2a8b615b449cc5d379251b4c87ffdfcd00b2668ba082aa44047bc51a7f508/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d696c65726961796f" alt="https://github.com/cshemerda" data-canonical-src="https://komarev.com/ghpvc/?username=cshemerda" style="max-width: 100%;"></a>
 </p>
 <hr>
 <h2 align="center" dir="auto">🔭 Languages</h2>
