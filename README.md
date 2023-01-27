@@ -4,7 +4,7 @@
 
 <h2 align="center" dir="auto"><a id="user-content---whoami" class="anchor" aria-hidden="true" href="#--whoami"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a> <g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji> about me</h2>
 <p align="center" dir="auto">
-  <samp> My name is Chance Hemerda. I'm a Full stack Web Developer in training @ Fullstack Academy. I am enthuastic about new technologies and teaching others. Outside the world of tech, I enjoy traveling, gaming, F1, and spending way too much time and money building custom keyboards.
+  <samp> My name is Chance Hemerda. I'm a Full stack Web Developer @ Fullstack Academy. I am enthuastic about new technologies and teaching others. Outside the world of tech, I enjoy traveling, gaming, F1, and spending way too much time and money building custom keyboards.
   </samp>
   <br> <br>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f9f2a8b615b449cc5d379251b4c87ffdfcd00b2668ba082aa44047bc51a7f508/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d696c65726961796f"><img src="https://komarev.com/ghpvc/?username=cshemerda" alt="https://github.com/cshemerda" style="max-width: 100%;"></a>
