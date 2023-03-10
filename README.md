@@ -1,5 +1,6 @@
 ## Hey, I'm Chance.
-I live in Phoenix. I like gaming, custom keyboards, being outside, F1, and coding. 2023-FSA.
+I'm a Full stack Web Developer @ FSA. I am enthuastic about new technologies and teaching others.  
+Outside the world of tech, I enjoy traveling, gaming, F1, and building custom keyboards.
 
 ### Get In Touch
 <a href="mailto:cshemerda@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/cshemerda"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
