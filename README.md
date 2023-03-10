@@ -1,5 +1,5 @@
 ## Hey, I'm Chance.
-I'm a Full stack Web Developer @ FSA. I am enthuastic about new technologies and teaching others.  
+I'm a Full stack Developer @ FSA. I am enthuastic about new technologies and teaching others.  
 Outside the world of tech, I enjoy traveling, gaming, F1, and building custom keyboards.
 
 ### Get In Touch
